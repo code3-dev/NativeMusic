@@ -19,7 +19,7 @@
 ---
 
 ## 📥 **Download**  
-[**Download Native Music APK**](https://github.com/code3-dev/NativeMusic/releases/download/v10.10.0/NativeMusic.apk)  
+[**Download Native Music APK**](https://github.com/code3-dev/NativeMusic/releases/download/v11.0.0/NativeMusic.apk)  
 
 ---
 
